@@ -1537,3 +1537,4 @@ Stay updated and join our community:
 ## 📄 License
 
 MIT
+Kill
